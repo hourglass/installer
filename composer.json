@@ -1,0 +1,20 @@
+{
+  "name": "hourglass/installer",
+  "type": "hourglass-addon",
+  "description": "The Hourglass installation wizard",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Christopher Mühl",
+      "email": "christopher@padarom.io"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+        "Hourglass\\Installer\\": "src"
+    }
+  },
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}

@@ -1,0 +1,6 @@
+name: Hourglass Installer
+requiresDatabase: false
+authors:
+  -
+    name: Christopher Mühl
+    email: christopher@padarom.io
