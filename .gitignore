@@ -1,0 +1,4 @@
+# Dependency Management
+/vendor
+composer.lock
+/build/logs/
