@@ -15,10 +15,10 @@
     }
   },
   "require": {
-    "hourglass/hourglass": "dev-master",
     "composer/installers": "~1.0"
   },
   "require-dev": {
+    "hourglass/hourglass": "dev-master",
     "phpunit/phpunit": "5.5.*"
   },
   "minimum-stability": "dev",
